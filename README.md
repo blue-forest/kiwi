@@ -1,5 +1,5 @@
-
 ![Kiwi Bundle](./assets/cover.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftheblueforest%2Fkiwi-bundle.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftheblueforest%2Fkiwi-bundle?ref=badge_shield)
 
 ## Features
 - TypeScript everywhere for a well-structured code
@@ -67,3 +67,7 @@ node_modules/
 ### [kiwi-bundle-cli](https://github.com/theblueforest/kiwi-bundle-cli)
 
 ### [kiwi-bundle-vscode](https://github.com/theblueforest/kiwi-bundle-vscode)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftheblueforest%2Fkiwi-bundle.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftheblueforest%2Fkiwi-bundle?ref=badge_large)
